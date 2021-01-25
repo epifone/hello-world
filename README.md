@@ -1,2 +1,2 @@
 # hello-world
-First repo
+This is a repo to test integration of datagrip with github
